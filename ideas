@@ -1,3 +1,10 @@
 Ideas
 1. reference actions or pipeline for k8s oraoperator with Oracle Exadata Cloud
 2. reference actions or pipeline for k8s postgres operatore 
+
+Info:
+https://blogs.oracle.com/coretec/post/oracle-database-fit-for-kubernetes
+https://www.oracle.com/a/ocom/docs/database/implementing-devops-principles-with-oracle-database.pdf
+
+https://postgres-operator.readthedocs.io/en/latest/
+
